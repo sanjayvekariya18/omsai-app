@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624351682998",
+    "firebase_url": "https://omsaicrm-16bb6.firebaseio.com",
+    "project_id": "omsaicrm-16bb6",
+    "storage_bucket": "omsaicrm-16bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624351682998:android:938c923abd3d9c29902117",
+        "android_client_info": {
+          "package_name": "com.crm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624351682998-73pfaooj890joq8e76a12f2o62lultat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1qFgSu4_8Jbj05Tq92hRiZ86Va46IBiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624351682998-73pfaooj890joq8e76a12f2o62lultat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
