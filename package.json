@@ -47,7 +47,7 @@
     "rn-fetch-blob": "^0.12.0",
     "save": "^2.4.0",
     "sugar": "^2.0.6",
-    "underscore": "^1.9.2",
+    "underscore": "^1.12.1",
     "uuid": "^8.0.0"
   },
   "devDependencies": {
